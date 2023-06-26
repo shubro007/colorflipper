@@ -6,7 +6,9 @@
 .nav{
     display: flex;
     justify-content: space-evenly;
-    
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
 
 @keyframes example {
@@ -30,6 +32,8 @@
     gap: 20px;
     align-items: center;
 }
+
+
 
 #btn{
     color: black;
